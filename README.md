@@ -1,2 +1,2 @@
-# trishad_kano
-Hello there, this is my Profile
+
+Hello there, this is my Profile!
